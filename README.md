@@ -231,7 +231,7 @@ To run Space Invaders on your local machine, follow these steps:
 
 ### Controls:
 
-Use arrow keys or WASD keys to move the player's spaceship.
+Use arrow keys to move the player's spaceship.
 Press the spacebar to shoot bullets at the enemy invaders.
 
 ### Objective:
